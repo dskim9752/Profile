@@ -1,8 +1,12 @@
 # Profile
 
+## Team 소속
+
+ <img width="{1024}" src="{https://user-images.githubusercontent.com/6614912/148776373-4e4d769f-603f-4cbf-8257-616502fead31.png}"/>
 
 
- [![Duplicat's github stats](https://github-readme-stats.vercel.app/api?username=Duplicat)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Duplicat's github stats](https://github-readme-stats.vercel.app/api?username=dskim9752)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
