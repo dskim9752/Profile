@@ -10,11 +10,6 @@
 </kbd>
 
 ****
-<style>
-table tr td {
-   border: none!important;
-}
-</style>
 
 ## 참여한 프로젝트
 <kbd align="left">
@@ -25,7 +20,9 @@ table tr td {
 
 
 ****
- <table align="center" style="border:none">
+## My Github Status
+
+ <table align="center">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskim9752&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
@@ -33,12 +30,6 @@ table tr td {
   </tr>
 </table>
 
-
- [![Duplicat's github stats](https://github-readme-stats.vercel.app/api?username=dskim9752)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- 
- ![Duplicat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&theme=radical)
  
 ****
 
