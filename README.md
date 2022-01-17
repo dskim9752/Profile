@@ -18,7 +18,7 @@
 <kbd align="left">
 <a title="SimulDrone" href="https://mywatt.itch.io/simuldrone">
  <img width="20%" src="https://user-images.githubusercontent.com/6614912/149727827-4ab29d27-e7f9-44cf-a034-53b3facdefac.png"/></a> 
- <text align="center">SimulDrone</text>
+ <a align="center">SimulDrone</a>
 </kbd>
 
 
@@ -39,7 +39,8 @@
 ## Achivements
 <kbd align="left">
 <a title="Azure AI Fundamentals 900" href="#">
- <img width="30%" src="https://user-images.githubusercontent.com/6614912/149740146-c5872f2e-e311-4e45-af98-21d639c6cbbd.png"/></a> 
+ <img width="30%" src="https://user-images.githubusercontent.com/6614912/149740146-c5872f2e-e311-4e45-af98-21d639c6cbbd.png"/></a>
+<a align="center">Azure AI Fundamentals</a>
 </kbd>
 
 
