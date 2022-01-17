@@ -1,13 +1,16 @@
 # Profile
 
-## Team 소속
-
-<kbd align="center">
+## Team 소속  
+   
+<kbd align="left">
  <a title="Team Goocat" href="#">
- <img width="30%" src="https://user-images.githubusercontent.com/6614912/149726630-aefdb0bd-0685-410c-ab33-29303730fc60.png"/></a>
+ <img width="25%" src="https://user-images.githubusercontent.com/6614912/149726630-aefdb0bd-0685-410c-ab33-29303730fc60.png"/></a>
+ <a>　　　　　　　　　　　　　　　　　　　　　</a>
  <a title="SimulFactory" href="https://mywatt.itch.io/simuldrone">
- <img width="30%" src="https://user-images.githubusercontent.com/6614912/149720331-1e0e6698-a7e1-4b0a-83fe-0aa7a046ce4b.png"/></a>
+ <img width="25%" src="https://user-images.githubusercontent.com/6614912/149720331-1e0e6698-a7e1-4b0a-83fe-0aa7a046ce4b.png"/></a>
 </kbd>
+
+
 
 ****
 
@@ -26,7 +29,6 @@
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskim9752&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-
   </tr>
 </table>
 
