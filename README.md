@@ -37,14 +37,14 @@
 
 
 ## Achivements
-<kbd align="left">
+<kbd align="top">
 <a title="Azure AI Fundamentals 900" href="#">
- <img width="30%" src="https://user-images.githubusercontent.com/6614912/149740146-c5872f2e-e311-4e45-af98-21d639c6cbbd.png"/></a>
+ <img width="25%" src="https://user-images.githubusercontent.com/6614912/149740146-c5872f2e-e311-4e45-af98-21d639c6cbbd.png"/></a>
 <a align="center">Azure AI Fundamentals</a>
 </kbd>
-<kbd align="left">
+<kbd align="top">
 <a title="Arctic Code Vault Contributor" href="#">
- <img width="30%" src="https://user-images.githubusercontent.com/6614912/149748035-4b681aae-3022-45a8-8041-5a1c567d5cad.png"/></a>
+ <img width="25%" src="https://user-images.githubusercontent.com/6614912/149748035-4b681aae-3022-45a8-8041-5a1c567d5cad.png"/></a>
 <a align="center">Arctic Code Vault Contributor</a>
 </kbd>
 
