@@ -15,8 +15,8 @@
 ****
 
 ## 참여한 프로젝트
-<kbd align="left" href="https://mywatt.itch.io/simuldrone"  title="SimulDrone">
-<a>
+<kbd align="left" title="SimulDrone">
+<a href="https://mywatt.itch.io/simuldrone">
  <img width="20%" src="https://user-images.githubusercontent.com/6614912/149727827-4ab29d27-e7f9-44cf-a034-53b3facdefac.png"/></a> 
  <a align="center">SimulDrone</a>
 </kbd>
