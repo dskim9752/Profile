@@ -30,8 +30,8 @@
 
 ## My Github Status
 <div width ="90%" align="center">
- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskim9752&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+ <img height="170px" src="https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+ <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskim9752&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 </div>
 
  
