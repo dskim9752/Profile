@@ -25,11 +25,11 @@
 ****
 ## My Github Status
 
-<a align="center"><kbd align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskim9752&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-</kbd>
-</a>
+<div align="center">
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=dskim9752&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskim9752&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+</div>
+
  
 ****
 
