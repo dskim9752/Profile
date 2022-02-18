@@ -4,16 +4,16 @@
 
 ## Team 소속  
 <div width ="90%" align="left">
+  <kbd align="center">
+ <a title="SimulFactory" href="https://mywatt.itch.io/simuldrone">
+ <img width="125px" src="https://user-images.githubusercontent.com/6614912/149720331-1e0e6698-a7e1-4b0a-83fe-0aa7a046ce4b.png"/></a>
+ <br><strong align="center">Simul Factory</strong>
+ </kbd>
  <kbd align="center">
  <a title="Team Goocat" href="#">
  <img width="125px" src="https://user-images.githubusercontent.com/6614912/149726630-aefdb0bd-0685-410c-ab33-29303730fc60.png"/></a>
  <br><strong>Team GooCat</strong>
   </kbd>
- <kbd align="center">
- <a title="SimulFactory" href="https://mywatt.itch.io/simuldrone">
- <img width="125px" src="https://user-images.githubusercontent.com/6614912/149720331-1e0e6698-a7e1-4b0a-83fe-0aa7a046ce4b.png"/></a>
- <br><strong align="center">Simul Factory</strong>
- </kbd>
 </div>
 
 
